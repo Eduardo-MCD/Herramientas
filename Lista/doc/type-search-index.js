@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mx.unam.fes.estatico","l":"Lista"},{"p":"mx.unam.fes.estatico","l":"Nodo"}];updateSearchResults();
